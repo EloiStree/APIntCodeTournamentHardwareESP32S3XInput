@@ -17,6 +17,7 @@ The code I design in the past to use TTL or HC06:
 https://github.com/EloiStree/2023_06_21_ArduinoToX360    
 That we are going to use here.    
 
+I use the format [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft) [IID](https://github.com/EloiStree/IID) for my project
 
 Some Old code in case I need it:   
 https://github.com/EloiStree/2024_11_31_ReadHardwareToIndexInteger/tree/main/  
